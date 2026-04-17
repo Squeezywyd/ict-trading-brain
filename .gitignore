@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+journal.json
+.DS_Store
+.claude/

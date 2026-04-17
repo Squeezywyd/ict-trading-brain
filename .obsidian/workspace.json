@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "79a0cea36f51b880",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf8f62111cd2ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51998606b7bd9af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7177663d7ec777b",
+    "type": "split",
+    "children": [
+      {
+        "id": "509d7ec8f820314b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d32874be9433b32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "9818e855782e3220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "7635a014a930bb87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad75a3ffebbe815b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecfd430c160fe02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914ffef490d69374",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "d4da5d00361fd708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "85be19fde46b85ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "edb73869be3c353e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "9a9f77e2a321d5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "c51998606b7bd9af",
+  "lastOpenFiles": [
+    "03-rules/entry-rules.md",
+    "static/style.css.tmp.35588.1776287512647",
+    "04-maps/vault-index.md",
+    "__pycache__/server.cpython-314.pyc",
+    "__pycache__",
+    "static/app.js",
+    "static/style.css",
+    "server.py",
+    "static",
+    "_check_dangling.py",
+    "Displacement Candle.md",
+    "01-concepts/ifvg.md",
+    "Kill Zones.md",
+    "01-concepts/higher-timeframe-bias.md",
+    "London Open.md",
+    "03-rules/confluences-checklist.md",
+    "Order Block (Bullish).md",
+    "Bearish Order Block.md",
+    "00-inbox/new-trade-idea.md",
+    "Fair Value Gap.md",
+    "graph_stats.py",
+    "Home.md",
+    "04-maps/Risk & Psychology - MOC.md",
+    "04-maps/Sessions & Timing - MOC.md",
+    "04-maps/Market Structure - MOC.md",
+    "04-maps/Imbalances & Gaps - MOC.md",
+    "04-maps/Liquidity & Sweeps - MOC.md",
+    "04-maps/common-mistakes.md",
+    "04-maps/psychology-discipline.md",
+    "04-maps/psychology-patience.md",
+    "04-maps/trade-journal-template.md",
+    "04-maps/pre-trade-checklist.md",
+    "03-rules/backtesting-rules.md",
+    "03-rules/trade-invalidation.md",
+    "03-rules/risk-management.md",
+    "04-maps"
+  ]
+}
